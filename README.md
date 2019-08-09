@@ -1,0 +1,2 @@
+# npspconfig
+NPSP Basic Configuration
