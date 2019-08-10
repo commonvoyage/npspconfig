@@ -3,54 +3,13 @@
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
-                <name>decorate</name>
-                <value>true</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>eager</name>
-                <type>decorator</type>
-                <value>false</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>height</name>
-                <type>decorator</type>
-                <value>480</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>icon</name>
-                <type>decorator</type>
-                <value>fallback</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>label</name>
-                <type>decorator</type>
-                <value>Useful Links</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>richTextValue</name>
-                <value>&lt;p&gt;&lt;a href=&quot;http://https://powerofus.force.com/s/article/NPSP-Documentation&quot; target=&quot;_blank&quot;&gt;NPSP Documentation&lt;/a&gt;&lt;/p&gt;</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>scrollable</name>
-                <type>decorator</type>
-                <value>true</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>width</name>
-                <type>decorator</type>
-                <value>340</value>
-            </componentInstanceProperties>
-            <componentName>flexipage:richText</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
                 <name>eager</name>
                 <type>decorator</type>
                 <value>false</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>entityNames</name>
-                <value>[&quot;Account&quot;]</value>
+                <value>[&quot;Account&quot;,&quot;Campaign&quot;,&quot;Task&quot;,&quot;npsp__Address__c&quot;,&quot;npe01__OppPayment__c&quot;,&quot;Opportunity&quot;,&quot;Lead&quot;,&quot;npsp__General_Accounting_Unit__c&quot;,&quot;npe5__Affiliation__c&quot;,&quot;Case&quot;,&quot;Contact&quot;,&quot;npsp__Engagement_Plan__c&quot;,&quot;npsp__Allocation__c&quot;]</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>height</name>
