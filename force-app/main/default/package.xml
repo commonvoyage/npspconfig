@@ -118,6 +118,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>RecordTypes</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Settings</name>
     </types>
     <version>45.0</version>
