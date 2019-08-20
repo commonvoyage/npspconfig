@@ -10,7 +10,7 @@
     </fieldOverrides>
     <fieldOverrides>
         <field>StageName</field>
-        <literalValue>Posted</literalValue>
+        <literalValue>Closed Won</literalValue>
     </fieldOverrides>
     <label>New In Kind Gift</label>
     <optionsCreateFeedItem>true</optionsCreateFeedItem>
