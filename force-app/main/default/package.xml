@@ -5,6 +5,10 @@
         <name>CompactLayout</name>
     </types>
     <types>
+        <members>Common_Voyage_Square_Logo</members>
+        <name>ContentAsset</name>
+    </types>
+    <types>
         <members>*</members>
         <name>CustomApplication</name>
     </types>
